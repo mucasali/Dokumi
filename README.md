@@ -4,7 +4,7 @@
 
 ## A. Create Documentation in MongoDB
 
-![enter image description here](https://github.com/mucasali/Dokumi/blob/master/images/inputDefault.jpg)
+![enter image description here](https://github.com/mucasali/Dokumi/blob/master/images/inputDefault.png)
 
   1. Select Source to Default
   
@@ -21,7 +21,7 @@
 
 ## B. Create Documentation From GitHub
 
-![enter image description here](https://github.com/mucasali/Dokumi/blob/master/images/inputGithub.jpg)
+![enter image description here](https://github.com/mucasali/Dokumi/blob/master/images/inputGithub.png)
 
   1. Select Source to GitHub
   
