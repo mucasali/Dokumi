@@ -2,7 +2,7 @@
 
 # Setting Documentation From GitHub
 ## A. Create Documentation in MongoDB
-
+![enter image description here](https://github.com/mucasali/Dokumi/blob/master/images/inputDefault.jpg)
   1. Select Source to Default
   2. Insert Title of Document
      * you will see the Title in show title (number 1)
@@ -12,7 +12,7 @@
      
 
 ## B. Create Documentation From GitHub
-
+![enter image description here](https://github.com/mucasali/Dokumi/blob/master/images/inputGithub.jpg)
   1. Select Source to GitHub
       * you will see button Show Doc Git (number 1) 
   2. Insert Title of Document
@@ -24,3 +24,5 @@
       - if documentation has show, its means that your input is correct      
       - if documentation not show, its means that your input is not correct, please check your input field
   7. Click Button Insert to Save your Documentation
+
+* update your documentation has a same procedure, but in the end, you must click update button to save your documentation
