@@ -4,7 +4,7 @@
 
 ## A. Create Documentation in MongoDB
 
-![show of input](https://github.com/mucasali/Dokumi/raw/master/images/inputDefault.png  =500)
+<img src="https://github.com/mucasali/Dokumi/raw/master/images/inputDefault.png" width="500px">
 
   1. Select Source to Default
   
