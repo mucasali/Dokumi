@@ -14,7 +14,7 @@
      
   3. Insert Content of Document    
   
-     * you will see the Title in show content (number 2)
+     * you will see the Content in show content (number 2)
      
   4. Click Button insert to Save your Documentation
      
