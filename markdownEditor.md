@@ -1,10 +1,10 @@
 # Dokumi MarkDown Editor
------
- ## 1. Styling Text
+
+## Styling Text
  
- ###  Bold Style
+ ### Bold Style
 To make text bold, you can click **B** in Toolbar and type your text between **
-###  Italic Style
+ ###  Italic Style
  ## Use Header
  ## Use Code
  ## Use Quote
